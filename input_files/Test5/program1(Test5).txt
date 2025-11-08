@@ -1,0 +1,5 @@
+CPU, 10
+SYSCALL, 4
+CPU, 5
+END_IO, 4
+EXEC program2, 6
